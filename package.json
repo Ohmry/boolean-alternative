@@ -1,0 +1,26 @@
+{
+  "name": "boolean-alternative",
+  "version": "1.0.0",
+  "description": "Replacement libraries for the now-removed thenativeweb/boolean library",
+  "contributors": [
+    {
+      "name": "Lee Byung-Hoon",
+      "email": "o.ohmry@gmail.com"
+    }
+  ],
+  "private": false,
+  "main": "build/lib/index.js",
+  "types": "build/lib/index.d.ts",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Ohmry/boolean-alternative.git"
+  },
+  "keywords": [
+    "boolean",
+    "parser"
+  ],
+  "license": "MIT"
+}
